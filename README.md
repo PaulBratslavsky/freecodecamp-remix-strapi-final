@@ -188,6 +188,8 @@ export function flattenAttributes(data: any): any {
 
 ## Code Snippet 4
 
+This is the snippet for the create contact form.
+
 ```jsx
 import { useNavigate } from "@remix-run/react";
 
